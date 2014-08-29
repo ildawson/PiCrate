@@ -1,4 +1,4 @@
-PiCreate
+PiCrate
 ========
 
 Raspberry Pi Crate - A supercomputer using Raspberry Pis
